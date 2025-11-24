@@ -82,5 +82,5 @@ Linux • APIs • Web Hosting (Hostinger)**
 
 ## 💬 Connect With Me  
 ```md
-Email: lextecknetworks@gmail.com  
+Email: lexteckit@gmail.com  
 
