@@ -41,11 +41,11 @@ Linux • APIs • Web Hosting (Hostinger)**
 ## 📊 GitHub Stats  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dr_Lex&show_icons=true&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=DrLex25&show_icons=true&theme=radical&hide_border=true" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dr_Lex&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DrLex25&theme=radical&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr_Lex&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrLex25&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
@@ -54,7 +54,7 @@ Linux • APIs • Web Hosting (Hostinger)**
 ## 🏆 GitHub Achievements  
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=Dr_Lex&theme=radical&no-frame=true&row=1&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=DrLex25&theme=radical&no-frame=true&row=1&margin-w=10" />
 
 </div>
 
@@ -63,7 +63,7 @@ Linux • APIs • Web Hosting (Hostinger)**
 ## 🔥 Activity Graph  
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dr_Lex&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DrLex25&theme=react-dark&hide_border=true" />
 
 </div>
 
@@ -71,4 +71,5 @@ Linux • APIs • Web Hosting (Hostinger)**
 
 ## 💬 Connect With Me  
 ```md
-Email: lexteckit@gmail.com  
+Email: lextecknetworks@gmail.com  
+
